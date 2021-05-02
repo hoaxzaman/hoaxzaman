@@ -1,5 +1,5 @@
--  Hi, I’m Hoax Zaman
--  I’m working at Bangladesh Civilian Force for cyber security
+-  Hi, I’m Mehran Zaman
+-  Working at Bangladesh Civilian Force as a cyber security crew
 -  I’m looking to collaborate with The Ethical Hacker Network
 
 <!---
