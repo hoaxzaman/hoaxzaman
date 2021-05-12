@@ -1,5 +1,5 @@
 -  Hi, I’m Mehran Zaman
--  Working at Bangladesh Civilian Force as a cyber security crew
+-  Working at Bangladesh Civilian Force as a cyber security officer
 -  I’m looking to collaborate with The Ethical Hacker Network
 
 <!---
